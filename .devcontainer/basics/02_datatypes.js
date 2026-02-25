@@ -5,6 +5,6 @@ console.log( 3 +
 
   // symbols are used to create unique identifiers
 
-console.log(typeof null)    // object
+console.log(typeof null)    // result is  object
 console.log(typeof undefined)   // undefined 
 
